@@ -1,4 +1,4 @@
-Neumorphic buttons with a hover and click animation!
+Neumorphic buttons with a hover and a click animation!
 
 Currently supported props:
 
